@@ -4,7 +4,7 @@ For information on how to use this repository, see [JavaScript](https://docs.mic
 
 | My example | Build status |
 |---------|--------------|
-| Build (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_apis/build/status/fredrikaverpil.pipelines-javascript?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_build/latest?definitionId=1?branchName=master)
+| Build multi-platform (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_apis/build/status/fredrikaverpil.pipelines-javascript?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_build/latest?definitionId=1?branchName=master)
 | Build image and push to Docker Hub (YAML) | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_apis/build/status/pipelines-javascript-CI-docker?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_build/latest?definitionId=2?branchName=master)
 
 | Example | Build status |
