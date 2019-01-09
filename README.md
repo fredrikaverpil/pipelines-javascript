@@ -2,6 +2,10 @@
 
 For information on how to use this repository, see [JavaScript](https://docs.microsoft.com/azure/devops/pipelines/languages/javascript).
 
+| My example | Build status |
+|---------|--------------|
+| Build | [![Build Status](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_apis/build/status/fredrikaverpil.pipelines-javascript?branchName=master)](https://fredrikaverpil.visualstudio.com/pipelines-javascript/_build/latest?definitionId=1?branchName=master)
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/javascript/nodejs)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=7) |
